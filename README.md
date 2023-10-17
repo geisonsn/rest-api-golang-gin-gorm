@@ -1,5 +1,5 @@
 
-# Building a REST API with Golang using Gin and Gorm - [Rahman Fadhil](https://blog.logrocket.com/author/rahmanfadhil/) at LogRocket Blog 
+### Building a REST API with Golang using Gin and Gorm - [Rahman Fadhil](https://blog.logrocket.com/author/rahmanfadhil/) at LogRocket Blog 
 _**Editor’s note**: This tutorial was last updated on 10 November 2022 to make the code examples compatible with Go v1.19 and address questions posed in the comments section._
 
 Go is a popular language for good reason. It offers similar performance to other “low-level” programming languages such as Java and C++, but it’s also incredibly simple, which makes the development experience delightful.
